@@ -56,7 +56,7 @@ What I did:
 I learned that building a model is actually the easiest part, the real challenge is making it reliable and deployable.
 This project helped me understand the overall workflow from data to model to API.
 
-🔗 *[(https://github.com/Pranav03Hegde/Vehicle-Insurance-Prediction)]*
+🔗 *[Repo link](https://github.com/Pranav03Hegde/Vehicle-Insurance-Prediction)*
 
 ---
 
@@ -123,6 +123,6 @@ I enjoy understanding how things work from the basics and improving slowly.
 ---
 
 ## Connect with me
-LinkedIn: www.linkedin.com/in/pranav108  
-Email: prannavpm@gmail.com 
-GitHub: https://github.com/Pranav03Hegde
+LinkedIn: *www.linkedin.com/in/pranav108*  
+Email: *prannavpm@gmail.com* 
+GitHub: *https://github.com/Pranav03Hegde*
