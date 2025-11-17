@@ -124,7 +124,7 @@ I enjoy understanding how things work from the basics and improving slowly.
 
 ## Connect with me
 **LinkedIn:** [https://www.linkedin.com/in/pranav108](https://www.linkedin.com/in/pranav108)  
-**Email:** [prannavpm@gmail.com](prannavpm@gmail.com)  
+**Email:** [prannavpm@gmail.com](mailto:prannavpm@gmail.com)  
 **GitHub:** [https://github.com/Pranav03Hegde](https://github.com/Pranav03Hegde)
 
 
