@@ -123,6 +123,8 @@ I enjoy understanding how things work from the basics and improving slowly.
 ---
 
 ## Connect with me
-*[LinkedIn](www.linkedin.com/in/pranav108)*  
+*[LinkedIn](www.linkedin.com/in/pranav108)* 
+
 *[Email](prannavpm@gmail.com)* 
+
 *[GitHub](https://github.com/Pranav03Hegde)*
